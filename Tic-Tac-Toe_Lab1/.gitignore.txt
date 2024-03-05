@@ -1,7 +1,7 @@
-# Rust
-/target/
-Cargo.lock
-
 # IntelliJ IDEA
-.idea/
-*.iml
+Tic-Tac-Toe_Lab1/.idea/
+Tic-Tac-Toe_Lab1/Tic-Tac-Toe_Lab1.iml
+
+# Rust
+Tic-Tac-Toe_Lab1/Cargo.lock
+Tic-Tac-Toe_Lab1/target/
